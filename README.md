@@ -30,6 +30,10 @@ Here are some ideas to get you started:
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
    
+
+<a href="mailto:786hassan777@gmail.com">
+    <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
+</a>
 <a href="https://www.instagram.com/evilgenius786/">
     <img width="32" height="32" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" />
 </a>
@@ -57,7 +61,6 @@ Here are some ideas to get you started:
 - 👉 Data Scraping/Web automation
 - 💻 Android/Windows/Web dev
 - 📑 CS Graduate from Air University, Islamabad.
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
 
 
 <div align="center">
