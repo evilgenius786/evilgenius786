@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hey there, I'm  Hassan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<p>I've worked on various semester and 100+ freelance projects. Some of them are uploaded in repo others were private so couldnt upload them for obvious reason.</p>
 <div align="center">
 <p align="center">Let's connect!</p>
 
