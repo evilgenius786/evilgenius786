@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 ### Hey there, I'm  Hassan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p>I've worked on various semester and 100+ freelance projects. Some of them are uploaded here others were private so couldn't upload them for obvious reasons.</p>
+
+
 <div align="center">
 <p align="center">Let's connect!</p>
 
@@ -64,8 +66,16 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<p align="center">Tools & Technology 🛠</p>
-
+<p align="center">My skills 🛠</p>
+-Web scraping/automation (BS4/Requests/Selenium)<br>
+-Playing with APIs<br>
+-JSON/CSV<br>
+-Android dev (Java/XML)<br>
+-Windows dev (WPF/C#/XAML)<br>
+-Web dev (MEAN Stack)<br>
+-Python/C++<br>
+-Cyber security<br>
+-Reverse Engineering<br>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 
 </div>
