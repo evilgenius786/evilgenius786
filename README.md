@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://t.me/evilgenius786">
-    <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=www.telegram.org" />
+    <img width="32" height="32" src="https://telegram.org/favicon.ico?3" />
 </a>
 <a href="https://www.fiverr.com/muhammadhassan7">
     <img width="32" height="32" src="https://npm-assets.fiverrcdn.com/assets/layout/favicon-32x32.3ac9a80.png" />
