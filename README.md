@@ -65,8 +65,7 @@ Here are some ideas to get you started:
 - 📑 CS Graduate from Air University, Islamabad.
 
 
-<div align="center">
-<p align="center">My skills 🛠</p>
+<div align="center"><p align="center">My skills 🛠</p></div>
 -Web scraping/automation (BS4/Requests/Selenium)<br>
 -Playing with APIs<br>
 -JSON/CSV<br>
@@ -76,12 +75,11 @@ Here are some ideas to get you started:
 -Python/C++<br>
 -Cyber security<br>
 -Reverse Engineering<br>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-
-</div>
-
 <br>
-<br><br>
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+</div>
+<br>
 <summary>📝 My GitHub Stats</summary>
 <br>
 
