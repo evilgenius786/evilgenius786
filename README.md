@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 - 📑 CS Graduate from Air University, Islamabad.
 
 
-<div align="center"><p align="center">My skills 🛠</p></div>
+<div align="center"><p align="center">##My skills 🛠</p></div>
 -Web scraping/automation (BS4/Requests/Selenium)<br>
 -Playing with APIs<br>
 -JSON/CSV<br>
