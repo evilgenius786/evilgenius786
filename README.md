@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=evilgenius786&theme=gotham)]
+![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=evilgenius786&theme=gotham)
 
 
 Open Source Contributor from <b>Pakistan<b> 💚
