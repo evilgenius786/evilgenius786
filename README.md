@@ -25,6 +25,11 @@ Here are some ideas to get you started:
     <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
 
+    
+<a href="https://api.whatsapp.com/send?phone=923065855647">
+    <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
+</a>
+   
 <a href="https://www.instagram.com/evilgenius786/">
     <img width="32" height="32" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" />
 </a>
