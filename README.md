@@ -18,25 +18,25 @@ Here are some ideas to get you started:
 <p align="center">Let's connect!</p>
 
 <a href="https://www.facebook.com/evilgenius786/">
-    <img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeFk0w9o7PzxtXwIY-CspdLRaBWfmC2eGbdoFZ-YLZ4Zt9hIvpQoJVF7mUsk4Az2p_oWB8MwKmvBv-YDMahkkg0Y" />
+    <img width="32" height="32" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeFk0w9o7PzxtXwIY-CspdLRaBWfmC2eGbdoFZ-YLZ4Zt9hIvpQoJVF7mUsk4Az2p_oWB8MwKmvBv-YDMahkkg0Y" />
 </a>
 
 <a href="https://www.linkedin.com/in/evil-genius/">
-    <img src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
+    <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
 </a>
 
 <a href="https://www.instagram.com/evilgenius786/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img width="32" height="32" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" />
 </a>
 
 
 <a href="https://www.fiverr.com/muhammadhassan7">
-    <img src="https://npm-assets.fiverrcdn.com/assets/layout/favicon-32x32.3ac9a80.png" />
+    <img width="32" height="32" src="https://npm-assets.fiverrcdn.com/assets/layout/favicon-32x32.3ac9a80.png" />
 </a>
 
 
 <a href="https://www.upwork.com/freelancers/~014001996e6b483c27">
-    <img src="https://www.upwork.com/favicon.ico" />
+    <img width="32" height="32" src="https://www.upwork.com/favicon.ico" />
 </a>
 </div>
 
