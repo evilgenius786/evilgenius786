@@ -43,9 +43,9 @@ Here are some ideas to get you started:
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
 
-<a href="https://www.fiverr.com/muhammadhassan7">
+<!-- <a href="https://www.fiverr.com/muhammadhassan7">
     <img width="32" height="32" src="https://npm-assets.fiverrcdn.com/assets/layout/favicon-32x32.3ac9a80.png" />
-</a>
+</a> -->
 
 
 <a href="https://www.upwork.com/freelancers/~014001996e6b483c27">
