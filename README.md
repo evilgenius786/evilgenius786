@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 -Windows dev (WPF/C#/XAML)<br>
 -Web dev (MEAN Stack)<br>
 -Python/C++<br>
--Cyber security
+-Cyber security<br>
 -Web pentesting/hacking<br>
 -Reverse Engineering<br>
 <br>
