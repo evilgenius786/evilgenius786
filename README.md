@@ -75,7 +75,8 @@ Here are some ideas to get you started:
 -Windows dev (WPF/C#/XAML)<br>
 -Web dev (MEAN Stack)<br>
 -Python/C++<br>
--Cyber security<br>
+-Cyber security
+-Web pentesting/hacking<br>
 -Reverse Engineering<br>
 <br>
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
