@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 - 💻 Android/Windows/Web dev
 - 📑 CS Graduate from Air University, Islamabad.
 
-##### My skills 🛠
+### My skills 🛠
 👉 Web scraping/automation<br>
 👉 (BS4/Requests/Selenium)<br>
 👉 Playing with APIs<br>
