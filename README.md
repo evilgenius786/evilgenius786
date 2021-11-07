@@ -98,11 +98,14 @@ Here are some ideas to get you started:
 ![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=evilgenius786&theme=gotham&show_icons=true&include_all_commits=true&)
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilgenius786&layout=compact&theme=gotham&count_private=true&include_all_commits=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=evilgenius786&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hassan's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilgenius786&layout=compact&theme=buefy&hide_border=true" />
-| ------------- | ------------- |
-
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilgenius786&layout=compact&theme=gotham&count_private=true&include_all_commits=true" />
 Open Source Contributor from <b>Pakistan<b> 💚
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 ![](https://visitor-badge.glitch.me/badge?page_id=evilgenius786.evilgenius786)
 
 <br>
