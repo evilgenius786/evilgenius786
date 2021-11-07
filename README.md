@@ -99,7 +99,8 @@ Here are some ideas to get you started:
 
 ![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=evilgenius786&theme=gotham) -->
 
- <a href="https://github.com/evilgenius786/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=evilgenius786&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hassan's github stats" /></a> | <a href="https://github.com/evilgenius786/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilgenius786&layout=compact&theme=buefy&hide_border=true" /></a> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=evilgenius786&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hassan's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilgenius786&layout=compact&theme=buefy&hide_border=true" />
 | ------------- | ------------- |
 
 
