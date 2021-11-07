@@ -62,22 +62,21 @@ Here are some ideas to get you started:
 #### Talking about my personal stuff:
 
 - 🙋‍♂️ Top-Rated Freelancer at Upwork
-- 👉 Data Scraping/Web automation
+- ⚡ Data Scraping/Web automation
 - 💻 Android/Windows/Web dev
 - 📑 CS Graduate from Air University, Islamabad.
 
-
-<div align="center"><p align="center">My skills 🛠</p></div>
--Web scraping/automation (BS4/Requests/Selenium)<br>
--Playing with APIs<br>
--JSON/CSV<br>
--Android dev (Java/XML)<br>
--Windows dev (WPF/C#/XAML)<br>
--Web dev (MEAN Stack)<br>
--Python/C++<br>
--Cyber security<br>
--Web pentesting/hacking<br>
--Reverse Engineering<br>
+#### My skills 🛠
+👉 Web scraping/automation (BS4/Requests/Selenium)<br>
+👉 Playing with APIs<br>
+👉 JSON/CSV<br>
+👉 Android dev (Java/XML)<br>
+👉 Windows dev (WPF/C#/XAML)<br>
+👉 Web dev (MEAN Stack)<br>
+👉 Python/C++<br>
+👉 Cyber security<br>
+👉 Web pentesting/hacking<br>
+👉 Reverse Engineering<br>
 <br>
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md-->
 <div align="center">
