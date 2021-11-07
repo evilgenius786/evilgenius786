@@ -99,9 +99,7 @@ Here are some ideas to get you started:
 <br>
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilgenius786&layout=compact&theme=gotham&count_private=true&include_all_commits=true" />
 <br>
-<div allign="center">
 Open Source Contributor from <b>Pakistan<b> 💚
     <br>
 ![](https://visitor-badge.glitch.me/badge?page_id=evilgenius786.evilgenius786)
 <br>
-    </div>
