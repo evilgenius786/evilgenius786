@@ -94,9 +94,12 @@ Here are some ideas to get you started:
 <br>
 <summary>📝 My GitHub Stats</summary>
 <br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilgenius786&hide=R,HTML&layout=compact&theme=blue-green&count_private=true&include_all_commits=true" />
+<!-- <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilgenius786&hide=R,HTML&layout=compact&theme=blue-green&count_private=true&include_all_commits=true" />
 <br>
-![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=evilgenius786&theme=gotham)
+
+![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=evilgenius786&theme=gotham) -->
+| <a href="https://github.com/evilgenius786/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=evilgenius786&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hassan's github stats" /></a> | <a href="https://github.com/evilgenius786/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilgenius786&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 Open Source Contributor from <b>Pakistan<b> 💚
