@@ -94,7 +94,8 @@ Here are some ideas to get you started:
 <br>
 <summary>📝 My GitHub Stats</summary>
 <br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilgenius786&hide=R,HTML&layout=compact&theme=blue-green&count_private=true&include_all_commits=true" /><br>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilgenius786&hide=R,HTML&layout=compact&theme=blue-green&count_private=true&include_all_commits=true" />
+<br>
 ![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=evilgenius786&theme=gotham)
 
 
