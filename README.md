@@ -67,14 +67,20 @@ Here are some ideas to get you started:
 - 📑 CS Graduate from Air University, Islamabad.
 
 ### My skills 🛠
-👉 Web scraping/automation<br>
-👉 (BS4/Requests/Selenium)<br>
-👉 Playing with APIs<br>
-👉 JSON/CSV<br>
-👉 Android dev (Java/XML)<br>
-👉 Windows dev (WPF/C#/XAML)<br>
-👉 Web dev (MEAN Stack)<br>
-👉 Python/C++<br>
+👉 Data Scraping (Python/BeautifulSoup/Requests/LXML)<br>
+👉 Web Automation (Python/C#/Selenium)<br>
+👉 Android Automation (Python/C#/Appium)<br>
+👉 Android Apps (Java/XML)<br>
+👉 Windows desktop Apps (WPF/C#/XAML)<br>
+👉 Web Apps (MEAN Stack)<br>
+👉 API Development (FastAPI/Flask)<br>
+<br>
+👉 Multithreaded code<br>
+👉 Output in JSON/CSV/Excel<br>
+👉 Clean and efficient<br>
+👉 Commented and prettified to help you understand<br>
+👉 Parsing data and APIs<br>
+👉 C++<br>
 👉 Cyber security<br>
 👉 Web pentesting/hacking<br>
 👉 Reverse Engineering<br>
