@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 - 📑 CS Graduate from Air University, Islamabad.
 
 ### My skills 🛠
-👉 Data Scraping (Python/BeautifulSoup/Requests/LXML)<br>
+👉 Data Scraping (Python/bs4/Requests)<br>
 👉 Web Automation (Python/C#/Selenium)<br>
 👉 Android Automation (Python/C#/Appium)<br>
 👉 Android Apps (Java/XML)<br>
