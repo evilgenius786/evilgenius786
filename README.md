@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.upwork.com/freelancers/~014001996e6b483c27">
-    <img width="32" height="32" src="https://www.upwork.com/favicon.ico" />
+    <img width="32" height="32" src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" />
 </a>
 </div>
 
