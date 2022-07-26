@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 - ⚡ Data Scraping/Web automation
 - 💻 Android/Windows/Web dev
 - 📑 CS Graduate from Air University, Islamabad.
+- 💪 Conducted multiple <a href="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/Screenshot_1.png">workshops</a> on Freelancing @ Upwork
 
 ### My skills 🛠
 👉 Data Scraping (Python/bs4/Requests)<br>
