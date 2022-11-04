@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </a> -->
 
 
-<a href="https://www.upwork.com/freelancers/muhammadhassan82">
+<a href="https://www.upwork.com/freelancers/evilgenius786">
     <img width="32" height="32" src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" />
 </a>
 </div>
