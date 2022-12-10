@@ -68,13 +68,13 @@ Here are some ideas to get you started:
 - 💪 Conducted multiple <a href="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/Screenshot_1.png">workshops</a> on Freelancing @ Upwork
 
 ### My skills 🛠
-👉 Data Scraping (Python/bs4/Requests)<br>
-👉 Web Automation (Python/C#/Selenium)<br>
-👉 Android Automation (Python/C#/Appium)<br>
-👉 Android Apps (Java/XML)<br>
-👉 Windows desktop Apps (WPF/C#/XAML)<br>
-👉 Web Apps (MEAN Stack)<br>
-👉 API Development (FastAPI/Flask)<br>
+👉 Data Scraping (Python/bs4/Requests) (Since 2019)<br>
+👉 Web Automation (Python/C#/Selenium) (Since 2019)<br>
+👉 Android Automation (Python/C#/Appium) (Since 2021)<br>
+👉 Android Apps (Java/XML)(2018-2019)<br>
+👉 Windows desktop Apps (WPF/C#/XAML) (Since 2018)<br>
+👉 Web Apps (MEAN Stack) (2018-2019)<br>
+👉 API Development (FastAPI/Flask) (Since 2020)<br>
 <br>
 👉 Multithreaded code<br>
 👉 Output in JSON/CSV/Excel<br>
