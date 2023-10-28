@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Top-Rated Plua Freelancer at Upwork
+- 🙋‍♂️ Top-Rated Plus Freelancer at Upwork
 - ⚡ Data Scraping/Web automation
 - 💻 Android/Windows/Web dev
 - 📑 CS Graduate from Air University, Islamabad.
