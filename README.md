@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 - 💻 Android/Windows/Web dev
 - 📑 CS Graduate from Air University, Islamabad.
 - 💪 Conducted multiple <a href="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/Screenshot_1.png">workshops</a> on Freelancing @ Upwork
+- 🏅 Won the <a href="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/20231203_113304.jpg">Best Freelancer Award</a> in <a href"https://www.facebook.com/photo/?fbid=730574605772607&set=a.730582385771829">Connected Pakistan Conference 2023</a>
 
 ### My skills 🛠
 👉 Data Scraping (Python/bs4/Requests) (Since 2019)<br>
