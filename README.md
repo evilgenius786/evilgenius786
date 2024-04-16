@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">Let's connect!</p>
 
 <a href="https://www.facebook.com/evilgenius786/">
-    <img width="32" height="32" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeFk0w9o7PzxtXwIY-CspdLRaBWfmC2eGbdoFZ-YLZ4Zt9hIvpQoJVF7mUsk4Az2p_oWB8MwKmvBv-YDMahkkg0Y" />
+    <img width="32" height="32" src="https://static.xx.fbcdn.net/rsrc.php/yT/r/aGT3gskzWBf.ico" />
 </a>
 
 <a href="https://www.linkedin.com/in/evil-genius/">
