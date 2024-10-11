@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=256" />
 </a>
 <a href="https://t.me/evilgenius786">
-    <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=www.telegram.org&sz=256" />
+    <img width="32" height="32" src="https://telegram.org/favicon.ico?3" />
 </a>
    
 
@@ -40,16 +40,12 @@ Here are some ideas to get you started:
 
     
 <a href="https://api.whatsapp.com/send?phone=923065855647">
-    <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=www.whatsapp.com&sz=256" />
+    <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
-
-<!-- <a href="https://www.fiverr.com/muhammadhassan7">
-    <img width="32" height="32" src="https://npm-assets.fiverrcdn.com/assets/layout/favicon-32x32.3ac9a80.png" />
-</a> -->
 
 
 <a href="https://www.upwork.com/freelancers/evilgenius786">
-    <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=www.upwork.com&sz=256" />
+    <img width="32" height="32" src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" />
 </a>
 </div>
 
