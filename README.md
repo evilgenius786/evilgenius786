@@ -24,23 +24,23 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.linkedin.com/in/evil-genius/">
-    <img width="32" height="32" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />
+    <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=256" />
 </a>
 <a href="https://t.me/evilgenius786">
-    <img width="32" height="32" src="https://telegram.org/favicon.ico?3" />
+    <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=www.telegram.org&sz=256" />
 </a>
    
 
 <a href="mailto:786hassan777@gmail.com">
-    <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
+    <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=www.gmail.com&sz=256" />
 </a>
 <a href="https://www.instagram.com/evilgenius786/">
-    <img width="32" height="32" src="https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png" />
+    <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=www.instagram.com&sz=256" />
 </a>
 
     
 <a href="https://api.whatsapp.com/send?phone=923065855647">
-    <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
+    <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=www.whatsapp.com&sz=256" />
 </a>
 
 <!-- <a href="https://www.fiverr.com/muhammadhassan7">
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.upwork.com/freelancers/evilgenius786">
-    <img width="32" height="32" src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" />
+    <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=www.upwork.com&sz=256" />
 </a>
 </div>
 
