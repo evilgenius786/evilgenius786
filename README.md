@@ -32,7 +32,7 @@ Here are some ideas to get you started:
    
 
 <a href="mailto:786hassan777@gmail.com">
-    <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=www.gmail.com&sz=256" />
+    <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
 </a>
 <a href="https://www.instagram.com/evilgenius786/">
     <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=www.instagram.com&sz=256" />
