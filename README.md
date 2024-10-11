@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">Let's connect!</p>
 
 <a href="https://www.facebook.com/evilgenius786/">
-    <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=www.facebook.com" />
+    <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=www.facebook.com&sz=128" />
 </a>
 
 <a href="https://www.linkedin.com/in/evil-genius/">
